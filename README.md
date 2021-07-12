@@ -18,3 +18,9 @@ TBD
 - docker-compose.test.yml
 - docker-compose.dev.yml
 - docker-compose.prod.yml
+
+## Links
+
+- [republa.com](https://republa.com)
+- [Rolands.EU](https://rolands.eu) | [Umbrovskis.com](https://umbrovskis.com) | [Umbrovskis.lv](https://umbrovskis.lv)
+- [WordPress mājas lapu izstrāde](https://mediabox.lv/wordpress/)
