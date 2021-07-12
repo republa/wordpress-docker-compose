@@ -5,11 +5,28 @@ TBD
 ## Dockerfiles
 
 ### PHP
+- PHP 5.5+ (*legacy*),
+- 7.2+ (*LTS*),
+- 8.0+ (*dev*)
+
+Docker hub
+
+- [hub.docker.com/_/php](https://hub.docker.com/_/php) 
 
 ### Nginx
+Web server and proxy 
+
+#### internal
+- [hub.docker.com/_/nginx](https://hub.docker.com/_/nginx)
+
+
+#### proxy
+
+- [hub.docker.com/r/jwilder/nginx-proxy](https://hub.docker.com/r/jwilder/nginx-proxy)
 
 ### (PHP) Composer
 
+- [hub.docker.com/_/composer](https://hub.docker.com/_/composer) (v2.0+)
 
 ## `docker-compose` files
 
