@@ -1,4 +1,4 @@
-# WordPress Docker setup for dev
+# WordPress Docker (multiple setups)
 
 TBD
 
