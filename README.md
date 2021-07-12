@@ -1,6 +1,6 @@
 # WordPress Docker (multiple setups)
 
-TBD
+TBD (~ 2021-08-30)
 
 ## Dockerfiles
 
